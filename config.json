@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Group 1 - Нижегородская область\nGroup 2 - Приморский край\nGroup 3 - Красноярский край\nGroup 4 - Псковская область\nGroup 5 - Алтайский край\nGroup 6 - Республика Хакассия\nGroup 7 - Новосибирская область\nGroup 8 - Омская область\nGroup 9 - Кемеровская область \nGroup 10 - Тюменская область\nGroup 11 - Московская область\nGroup 12 - Амурская область\nGroup 13 - Москва\nGroup 14 - Самарская область\nGroup 15 - Орловская область\nGroup 16 - Ивановская область\nGroup 17 - Якутия\nGroup 18 - Магаданская область\nGroup 19 - Воронежская область\nGroup 20 -  Чукотский АО",
+    "intro": "",
     "title": "Сетки распространения региональных Telegram-каналов"
   },
   "legend": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 2,
+      "minEdgeSize": 0.1,
+      "minNodeSize": 5,
+      "maxNodeSize": 65
     },
     "mouseProperties": {
       "maxRatio": 20,
