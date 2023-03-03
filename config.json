@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "субъект федерации"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
